@@ -22,19 +22,19 @@ body{
 }
 
 .nav-link{
-    color: #5f6368!important;
+    color: #3f454d!important;
     font-weight: bolder;
     font-family: 'Montserrat', sans-serif;
 }
 
 .nav-link:hover{
-    background-color: #f3f1f1;
+    background-color: #b6c9c8;
 }
 
 .main-content{
     height: 100vh;
-    background-color: lavender;
-    color:rgb(1, 113, 128);
+    background-color: rgb(149, 176, 180);
+    color:rgb(2, 63, 71);
    
     display: grid;
     place-items: center;
